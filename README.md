@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQHqt5O6nhFwyQ/profile-displaybackgroundimage-shrink_350_1400/B4EZhlImgqHgAg-/0/1754043411912?e=1756944000&v=beta&t=ncH1rd_nH_bv7ddP7T7laJ2BHYxNoM9I2gyc5leX320">
 <h1 align="center">Hello 👋, I'm Morshed Alam</h1>
-<h3 align="center">Passionate Web Design & Developer | Clean Code | Web Solutions</h3>
+<h3 align="center">Professional Web Designer & Developer | WordPress Expert | Clean Code | Web Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-morshed&label=Profile%20views&color=0e75b6&style=flat" alt="dev-morshed" /> </p>
 
